@@ -1,0 +1,14 @@
+.list {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.list__item {
+  margin-left: 5%;
+}
+
+.list__item-title {
+  text-align: center;
+}
